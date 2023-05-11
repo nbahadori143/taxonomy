@@ -34,7 +34,7 @@ job taxonomy {
         name = taxonomy
         tags = [
           "api",
-          "dev-taxonomy.blockchainr.app/"
+          "urlprefix-taxonomy-dev.blockchainr.app/"
         ]
         port = "http"
         check {
