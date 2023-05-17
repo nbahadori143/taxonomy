@@ -31,7 +31,7 @@ job taxonomy {
         }
       }
       service {
-        name = taxonomy
+        name = "taxonomy"
         tags = [
           "api",
           "urlprefix-taxonomy-dev.blockchainr.app/"
